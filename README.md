@@ -116,7 +116,7 @@ Modelin test verisi üzerindeki performansını değerlendirmek için birkaç me
 - **F1 Score:** 0.90  
   F1 skoru, modelin hem hassasiyet hem de duyarlılık açısından dengeli bir performans gösterdiğini belirtir. 0.90'lık bir F1 skoru, modelin yanlış pozitifleri ve yanlış negatifleri iyi yönettiğini gösteriyor.
 
-Sonuç olarak, model oldukça etkili bir performans sergilemekte. Ancak, performansı artırmak için veri artırma, farklı model mimarileri veya hiperparametre ayarlamaları gibi ek iyileştirmeler yapılabilir.
+Sonuç olarak, model oldukça etkili bir performans sergilemekte.
 
 
 
